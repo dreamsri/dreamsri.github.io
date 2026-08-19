@@ -1,0 +1,1 @@
+Navigation currently routes to lightweight placeholder pages until full page content is added.
