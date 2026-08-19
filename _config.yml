@@ -1,1 +1,17 @@
+title: Sridhar Satha Sivam
+description: Personal website and professional portfolio
+url: "https://dreamsri.github.io"
+baseurl: ""
+lang: en-IN
 theme: jekyll-theme-architect
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages / Jekyll defaults
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
